@@ -1,0 +1,44 @@
+Best Parameters (BoW): {'C': 10, 'solver': 'lbfgs'}
+Best Score (BoW): 0.5652284085180371
+Grid Search CV Results (BoW):
+Parameters: {'C': 0.001, 'solver': 'liblinear'}, Mean Score: 0.2800, Standard Deviation: 0.0001
+Parameters: {'C': 0.001, 'solver': 'lbfgs'}, Mean Score: 0.2800, Standard Deviation: 0.0001
+Parameters: {'C': 0.001, 'solver': 'newton-cg'}, Mean Score: 0.2800, Standard Deviation: 0.0001
+Parameters: {'C': 0.01, 'solver': 'liblinear'}, Mean Score: 0.2915, Standard Deviation: 0.0033
+Parameters: {'C': 0.01, 'solver': 'lbfgs'}, Mean Score: 0.3002, Standard Deviation: 0.0044
+Parameters: {'C': 0.01, 'solver': 'newton-cg'}, Mean Score: 0.3006, Standard Deviation: 0.0045
+Parameters: {'C': 0.1, 'solver': 'liblinear'}, Mean Score: 0.4309, Standard Deviation: 0.0012
+Parameters: {'C': 0.1, 'solver': 'lbfgs'}, Mean Score: 0.4509, Standard Deviation: 0.0033
+Parameters: {'C': 0.1, 'solver': 'newton-cg'}, Mean Score: 0.4504, Standard Deviation: 0.0030
+Parameters: {'C': 1, 'solver': 'liblinear'}, Mean Score: 0.5318, Standard Deviation: 0.0074
+Parameters: {'C': 1, 'solver': 'lbfgs'}, Mean Score: 0.5463, Standard Deviation: 0.0076
+Parameters: {'C': 1, 'solver': 'newton-cg'}, Mean Score: 0.5460, Standard Deviation: 0.0068
+Parameters: {'C': 10, 'solver': 'liblinear'}, Mean Score: 0.5409, Standard Deviation: 0.0076
+Parameters: {'C': 10, 'solver': 'lbfgs'}, Mean Score: 0.5652, Standard Deviation: 0.0096
+Parameters: {'C': 10, 'solver': 'newton-cg'}, Mean Score: 0.5641, Standard Deviation: 0.0100
+Parameters: {'C': 100, 'solver': 'liblinear'}, Mean Score: 0.5105, Standard Deviation: 0.0079
+Parameters: {'C': 100, 'solver': 'lbfgs'}, Mean Score: 0.5519, Standard Deviation: 0.0099
+Parameters: {'C': 100, 'solver': 'newton-cg'}, Mean Score: 0.5469, Standard Deviation: 0.0103
+
+
+Best Parameters (TF-IDF): {'C': 10, 'solver': 'lbfgs'}
+Best Score (TF-IDF): 0.5652284085180371
+Grid Search CV Results (TF-IDF):
+Parameters: {'C': 0.001, 'solver': 'liblinear'}, Mean Score: 0.2800, Standard Deviation: 0.0001
+Parameters: {'C': 0.001, 'solver': 'lbfgs'}, Mean Score: 0.2800, Standard Deviation: 0.0001
+Parameters: {'C': 0.001, 'solver': 'newton-cg'}, Mean Score: 0.2800, Standard Deviation: 0.0001
+Parameters: {'C': 0.01, 'solver': 'liblinear'}, Mean Score: 0.2915, Standard Deviation: 0.0033
+Parameters: {'C': 0.01, 'solver': 'lbfgs'}, Mean Score: 0.3002, Standard Deviation: 0.0044
+Parameters: {'C': 0.01, 'solver': 'newton-cg'}, Mean Score: 0.3006, Standard Deviation: 0.0045
+Parameters: {'C': 0.1, 'solver': 'liblinear'}, Mean Score: 0.4309, Standard Deviation: 0.0012
+Parameters: {'C': 0.1, 'solver': 'lbfgs'}, Mean Score: 0.4509, Standard Deviation: 0.0033
+Parameters: {'C': 0.1, 'solver': 'newton-cg'}, Mean Score: 0.4504, Standard Deviation: 0.0030
+Parameters: {'C': 1, 'solver': 'liblinear'}, Mean Score: 0.5318, Standard Deviation: 0.0074
+Parameters: {'C': 1, 'solver': 'lbfgs'}, Mean Score: 0.5463, Standard Deviation: 0.0076
+Parameters: {'C': 1, 'solver': 'newton-cg'}, Mean Score: 0.5460, Standard Deviation: 0.0068
+Parameters: {'C': 10, 'solver': 'liblinear'}, Mean Score: 0.5409, Standard Deviation: 0.0076
+Parameters: {'C': 10, 'solver': 'lbfgs'}, Mean Score: 0.5652, Standard Deviation: 0.0096
+Parameters: {'C': 10, 'solver': 'newton-cg'}, Mean Score: 0.5641, Standard Deviation: 0.0100
+Parameters: {'C': 100, 'solver': 'liblinear'}, Mean Score: 0.5105, Standard Deviation: 0.0079
+Parameters: {'C': 100, 'solver': 'lbfgs'}, Mean Score: 0.5519, Standard Deviation: 0.0099
+Parameters: {'C': 100, 'solver': 'newton-cg'}, Mean Score: 0.5469, Standard Deviation: 0.0103
